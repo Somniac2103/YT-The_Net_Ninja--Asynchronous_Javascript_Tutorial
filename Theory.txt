@@ -1,0 +1,16 @@
+ASYNCHRONOUS JAVASCRIPT TUTORIAL
+
+Async Flow Control
+
+- CallBacks
+- Promises
+- Generators
+
+
+AJAX REQUEST
+
+A - Asynchronous
+J - Javascript
+A - And
+X - XML
+
