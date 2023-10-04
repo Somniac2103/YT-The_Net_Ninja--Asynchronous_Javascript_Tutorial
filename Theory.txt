@@ -14,3 +14,5 @@ J - Javascript
 A - And
 X - XML
 
+API endpoint
+moby is the endpoint-> Http://www.musicapi.com/artist/moby
